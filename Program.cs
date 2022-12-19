@@ -17,7 +17,8 @@ namespace Chocolatey.Docs.Cake.Recipe.Test
       return await Bootstrapper
         .Factory
         .CreateWeb(args)
-        .AddSetting(Keys.Host, "docs-recipe-test")
+        .AddSetting(Keys.Host, "chocolatey.github.io/")
+        .AddSetting(Keys.LinkRoot, "docs-recipe-test")
         .AddSetting(Keys.LinksUseHttps, true)
         .RunAsync();
     }
