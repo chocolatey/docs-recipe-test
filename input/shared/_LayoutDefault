@@ -1,0 +1,9 @@
+@{
+    Layout = "_LayoutBase.cshtml";
+}
+@section ExtraHeaders
+{
+    @RenderSection("ExtraHeaders", required: false)
+}
+
+@RenderBody()

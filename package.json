@@ -1,0 +1,22 @@
+{
+  "name": "docs-recipe-test",
+  "packageManager": "yarn@3.2.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chocolatey/docs-recipe-test.git"
+  },
+  "author": "chocolatey",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chocolatey/docs-recipe-test§/issues"
+  },
+  "homepage": "https://github.com/chocolatey/docs-recipe-test#readme",
+  "devDependencies": {
+    "choco-theme": "^0.1.1"
+  },
+  "resolutions": {
+    "glob-parent": "^6.0.2",
+    "nth-check": "^2.1.1",
+    "terser": "^5.14.2"
+  }
+}

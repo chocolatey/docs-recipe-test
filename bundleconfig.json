@@ -1,0 +1,21 @@
+[
+    {
+      "outputFileName": "input/assets/css/chocolatey.bundle.css",
+      "inputFiles": [
+        "node_modules/lite-youtube-embed/src/lite-yt-embed.css",
+        "input/assets/css/chocolatey.css"
+      ]
+    },
+    {
+      "outputFileName": "input/assets/js/chocolatey-head.bundle.js",
+      "inputFiles": [
+        "input/assets/js/temp/chocolatey-theme-toggle-head.js"
+      ]
+    },
+    {
+      "outputFileName": "input/assets/js/chocolatey.bundle.js",
+      "inputFiles": [
+        "input/assets/js/temp/init/chocolatey-fest.js"
+      ]
+    }
+  ]
