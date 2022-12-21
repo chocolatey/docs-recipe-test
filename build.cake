@@ -2,7 +2,7 @@
 // Tools
 ///////////////////////////////////////////////////////////////////////////////
 
-#tool dotnet:https://www.myget.org/F/cake-contrib/api/v3/index.json?package=KuduSync.Tool&version=1.5.4-g3916ad7218
+#tool dotnet:https://www.myget.org/F/cake-contrib/api/v3/index.json?package=KuduSync.Tool&version=1.5.4-g12abb018f9
 
 ///////////////////////////////////////////////////////////////////////////////
 // Addins
