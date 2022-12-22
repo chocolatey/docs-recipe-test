@@ -1,4 +1,4 @@
-#load nuget:?package=Chocolatey.Docs.Cake.Recipe&version=0.1.0-alpha0014
+#load nuget:?package=Chocolatey.Docs.Cake.Recipe&version=0.1.0
 
 Environment.SetVariableNames();
 
