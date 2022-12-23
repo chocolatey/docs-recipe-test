@@ -19,7 +19,7 @@
 
   <ItemGroup>
     <PackageReference Include="GitInfo" Version="2.3.0" />
-    <PackageReference Include="Statiq.Web" Version="1.0.0-beta.51" />
+    <PackageReference Include="Statiq.Web" Version="1.0.0-beta.52" />
   </ItemGroup>
 
 </Project>
